@@ -1,0 +1,10 @@
+# Python version
+#python==3.10.13
+
+# List of libraries and their versions
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.7.5
+plotly==5.18.0
+scikit-learn==1.2.2
+scipy==1.11.4
