@@ -8,7 +8,15 @@
 
 # 💍💎 eCommerce de Jóias | Modelo de Segmentação de Clientes com Engenharia de Atributos
 
-Visualize o notebook com explicação técnica e gráficos interativos:
+### Relatório Interativo
+
+Página web com o relatório do projeto, contendo análise detalhada e resultados da segmentação, além de gráficos interativos.
+
+[![Relatório](https://img.shields.io/badge/HTML5-Relat%C3%B3rio%20Interativo-%23E34F26?style=plastic&logo=HTML5&link=https%3A%2F%2Fpedro-kaneko.github.io%2Fecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos%2F)](https://pedro-kaneko.github.io/ecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos/)
+
+### Notebook Python
+
+Notebook do projeto, com o desenvolvimento completo e explicações técnicas detalhadas.
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Jewellery_Customer_Segmentation_FeatureEngineering-blue?style=flat&logo=kaggle)](https://www.kaggle.com/code/pedrokaneko/jewellery-customer-segmentation-featureengineering)
 
