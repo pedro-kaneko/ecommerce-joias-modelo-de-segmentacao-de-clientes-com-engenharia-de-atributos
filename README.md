@@ -12,7 +12,7 @@
 
 Página web com o relatório do projeto, contendo análise detalhada e resultados da segmentação, além de gráficos interativos.
 
-[![Relatório](https://img.shields.io/badge/HTML5-Relat%C3%B3rio%20Interativo-%23E34F26?style=plastic&logo=HTML5&link=https%3A%2F%2Fpedro-kaneko.github.io%2Fecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos%2F)](https://pedro-kaneko.github.io/ecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos/)
+[![Relatório](https://img.shields.io/badge/HTML5-Relat%C3%B3rio%20Interativo-%23E34F26?style=flat&logo=HTML5&link=https%3A%2F%2Fpedro-kaneko.github.io%2Fecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos%2F)](https://pedro-kaneko.github.io/ecommerce-joias-modelo-de-segmentacao-de-clientes-com-engenharia-de-atributos/)
 
 ### Notebook Python
 
