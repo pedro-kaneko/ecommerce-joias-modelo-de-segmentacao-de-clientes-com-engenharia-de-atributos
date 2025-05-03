@@ -100,9 +100,12 @@ Este projeto visa a implementação de estratégias de segmentação de clientes
 
 Delegar a um modelo de clusterização a tarefa de segmentação de clientes pode simplificar o processo, no entanto há limitações consideráveis como falta de controle já que o modelo pode identificar padrões que não são relevantes para os objetivos e pode haver dificuldade de interpretação pois os padrões podem ser difíceis de explicar e relacionar com ações práticas. Assim, optamos por compreender e selecionar metricas de marketing específicas disponíveis e construir uma abordagem analítica controlada e direcionada.
 
-<p>$$
-\text{CustomerValueScore} = (\text{AverageRFM} \times 0.3) \times (\text{EngagementScore}_{\text{norm}} \times 0.4) \times (\text{CLTV}_{\text{norm}} \times 0.3)
-$$<p>
+<p>
+$$
+\text{ValorCliente} = (\overline{RFM} \times 0.3) \times (\text{ScoreEngajamento}_{\text{norm}} \times 0.4) \times (\text{CLTV}_{\text{norm}} \times 0.3)
+$$
+</p>
+
 
 Através da engenharia de atributos integramos três métricas **RFM médio**, **Pontuação de Engajamento** e **CLTV** em um único indicador o **Valor Cliente** criando uma visão abrangente que integra do comportamentos de compra, capta níveis de interesse e envolvimento com a marca e potencial de geração de valor. E a partir desse indicador, criamos a uma métrica categórica **Grupo de Valor** que segmenta cada tipo de cliente (Standard, Engaged e Premium) em grupos de Valor (A, B e C).
 
